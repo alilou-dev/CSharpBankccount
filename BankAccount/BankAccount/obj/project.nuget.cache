@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yr7gkISZc7P1RspfdOqrojKKCQrl3lu2pIsQ081v/rY2r7JbkjznMs2bFo1MlN767q99jLhHTDJKyAv5LR8fmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AliRaid\\source\\reposESGI\\CSharpBankccount\\BankAccount\\BankAccount\\BankAccount.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.preprod.mangopay.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
