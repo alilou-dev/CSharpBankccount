@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ss1Y7zVG1FjOAgra5Fibb1ib1B3HJ9PCd0H0GkJxbTc=",
+  "Source": "BankAccount",
+  "BasePath": "_content/BankAccount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

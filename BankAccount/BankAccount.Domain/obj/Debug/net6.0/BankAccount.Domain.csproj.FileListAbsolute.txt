@@ -1,0 +1,12 @@
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\bin\Debug\net6.0\BankAccount.Domain.deps.json
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\bin\Debug\net6.0\BankAccount.Domain.dll
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\bin\Debug\net6.0\BankAccount.Domain.pdb
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.csproj.AssemblyReference.cache
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.AssemblyInfoInputs.cache
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.AssemblyInfo.cs
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.dll
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\refint\BankAccount.Domain.dll
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\BankAccount.Domain.pdb
+C:\Users\AliRaid\source\reposESGI\CSharpBankccount\BankAccount\BankAccount.Domain\obj\Debug\net6.0\ref\BankAccount.Domain.dll
