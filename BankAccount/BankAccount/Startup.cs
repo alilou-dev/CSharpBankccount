@@ -32,7 +32,7 @@ namespace BankAccount
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                //bankAccountContext.Database.Migrate();
+                bankAccountContext.Database.Migrate();
             }
 
             app.UseHttpsRedirection();
